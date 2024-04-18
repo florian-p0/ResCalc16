@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">ResCalc16</string>
     <string-array name="colors_array">
+        <item>-</item>
         <item>Schwartz</item>
         <item>Braun</item>
         <item>Rot</item>
